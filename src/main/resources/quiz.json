@@ -1,0 +1,250 @@
+[
+  {
+    "answerKey": "4",
+    "option 3": "failure mode analysis",
+    "option 4": "none of the mentioned",
+    "question": "Which of the following is not included in failure costs?",
+    "option 1": "rework",
+    "option 2": "repair"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Programmers",
+    "option 4": "None of the mentioned",
+    "question": "Which requirements are the foundation from which quality is measured?",
+    "option 1": "Hardware",
+    "option 2": "Software"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "audits and reviews to be performed",
+    "option 4": "documents to be produced by the SQA group",
+    "question": "Which of the following is not a SQA plan for a project?",
+    "option 1": "evaluations to be performed",
+    "option 2": "amount of technical work"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Usability",
+    "option 4": "Flexibility",
+    "question": "Which one of the following is a requirement that fits in a developer�\u20AC�s module ?",
+    "option 1": "Availability",
+    "option 2": "Testability"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "Breadth test and depth test",
+    "option 4": "Confirmation testing",
+    "question": "Maintenance testing is performed using which methodology?",
+    "option 1": "Retesting",
+    "option 2": "Sanity testing"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Error guessing technique",
+    "option 4": "None of the mentioned",
+    "question": "White Box techniques are also classified as",
+    "option 1": "Design based testing",
+    "option 2": "Structural testing"
+  },
+  {
+    "answerKey": "1",
+    "option 3": "Developer�\u20AC�s & User�\u20AC�s end",
+    "option 4": "None of the mentioned",
+    "question": "Alpha testing is done at",
+    "option 1": "Developer�\u20AC�s end",
+    "option 2": "User�\u20AC�s end"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "Testing",
+    "option 4": "Staff turnover",
+    "question": "Which of the following is not considered as a risk in project management?",
+    "option 1": "Specification delays",
+    "option 2": "Product competition"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "Problem\/Opportunity Identification",
+    "option 4": "Development and Documentation",
+    "question": "Which is the first step in the software development life cycle ?",
+    "option 1": "Analysis",
+    "option 2": "Design"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "Availability",
+    "option 4": "Both Portability and Maintainability",
+    "question": "Select the developer-specific requirement ?",
+    "option 1": "Portability",
+    "option 2": "Maintainability"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "both a and b",
+    "option 4": "none",
+    "question": "Software quality assurance consists of which function of management.",
+    "option 1": "reporting functions",
+    "option 2": "auditing functions"
+  },
+  {
+    "answerKey": "1",
+    "option 3": "grey-box",
+    "option 4": "none of the mentioned",
+    "question": "The SRS document is also known as _____________ specification.",
+    "option 1": "black-box",
+    "option 2": "white-box"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Staffing",
+    "option 4": "Delivery Schedule",
+    "question": "Which of the following is included in SRS ?",
+    "option 1": "Cost",
+    "option 2": "Design Constraints"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "that is cost efficient",
+    "option 4": "both in time & with acceptable quality",
+    "question": "Purpose of process is to deliver software",
+    "option 1": "in time",
+    "option 2": "with acceptable quality"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "System error",
+    "option 4": "System failure",
+    "question": "A characteristic of a software system that can lead to a system error is known as?",
+    "option 1": "Human error or mistake",
+    "option 2": "System fault"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "Availability",
+    "option 4": "Both Portability and Maintainability",
+    "question": "Select the developer-specific requirement ?",
+    "option 1": "Portability",
+    "option 2": "Maintainability"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "Availability, Reliability, Security, Safety",
+    "option 4": "Security, Safety, Testability, Usability",
+    "question": "What are the four dimensions of Dependability ?",
+    "option 1": "Usability, Reliability, Security, Flexibility",
+    "option 2": "Availability, Reliability, Maintainability, Security"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Objects encapsulate state and representation information",
+    "option 4": "All of the mentioned",
+    "question": "Choose the incorrect statement in terms of Objects.",
+    "option 1": "Objects are abstractions of real-world",
+    "option 2": "Objects can�\u20AC�t manage themselves"
+  },
+  {
+    "answerKey": "1",
+    "option 3": "Super Class",
+    "option 4": "Sub Class",
+    "question": "What encapsulates both data and data manipulation functions ?",
+    "option 1": "Object",
+    "option 2": "Class"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "reusability",
+    "option 4": "reliability",
+    "question": "Choose an internal software quality from given below:",
+    "option 1": "scalability",
+    "option 2": "usability"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "Linear Development",
+    "option 4": "Both Incremental and Iterative Development",
+    "question": "Agile Software Development is based on",
+    "option 1": "Incremental Development",
+    "option 2": "Iterative Development"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Prototyping & RAD",
+    "option 4": "Waterfall & Spiral",
+    "question": "Which two models doesn�\u20AC�t allow defining requirements early in the cycle?",
+    "option 1": "Waterfall & RAD",
+    "option 2": "Prototyping & Spiral"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "Functional",
+    "option 4": "Both Black Box & Functional",
+    "question": "4GL is an example of ______________ processing.",
+    "option 1": "White Box",
+    "option 2": "Black Box"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "no relation",
+    "option 4": "none of the mentioned",
+    "question": "How is reliability and failure intensity related to each other?",
+    "option 1": "direct relation",
+    "option 2": "inverse relation"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "It is used when there is a need to get a product to the market early",
+    "option 4": "Easier to test and debug & It is used when there is a need to get a product to the market early",
+    "question": "What is the major advantage of using Incremental Model?",
+    "option 1": "Customer can respond to each increment",
+    "option 2": "Easier to test and debug"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "State Chart",
+    "option 4": "Component",
+    "question": "Which of the following diagram is not supported by UML considering Data-driven modeling ?",
+    "option 1": "Activity",
+    "option 2": "Data Flow Diagram (DFD)"
+  },
+  {
+    "answerKey": "2",
+    "option 3": "Prototype Refinement",
+    "option 4": "Engineer Product",
+    "question": "Which one of the following is not a phase of Prototyping Model?",
+    "option 1": "Quick Design",
+    "option 2": "Coding"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "planning, design, coding, testing",
+    "option 4": "planning, analysis, coding, testing",
+    "question": "Which four framework activities are found in the Extreme Programming(XP) ?",
+    "option 1": "analysis, design, coding, testing",
+    "option 2": "planning, analysis, design, coding"
+  },
+  {
+    "answerKey": "4",
+    "option 3": "test equipment",
+    "option 4": "equipment calibration and maintenance",
+    "question": "What is not included in prevention costs?",
+    "option 1": " quality planning",
+    "option 2": "formal technical reviews"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "quality planning",
+    "option 4": "testing",
+    "question": "Which of the following is not an appraisal cost in SQA?",
+    "option 1": "inter-process inspection",
+    "option 2": "maintenance"
+  },
+  {
+    "answerKey": "3",
+    "option 3": "SQA group",
+    "option 4": "All of the mentioned",
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project manager",
+    "option 2": "Project team"
+  }
+]
